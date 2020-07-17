@@ -5,7 +5,7 @@
 	 Created on:   	7/17/2020 9:58 AM
 	 Created by:   	ryanbley3
 	 Organization: 	Public Library of Cincinnati and Hamilton County
-	 Filename:     	Get-PrimaryDevicesFromUsernames
+	 Filename:     	Get-PrimaryDevicesFromUsernames.ps1
 	===========================================================================
 	.DESCRIPTION
 		Grabs sccm(mecm) primary devices from a list of users. Outputs csv
