@@ -3,7 +3,7 @@
 	===========================================================================
 	 Created with: 	SAPIEN Technologies, Inc., PowerShell Studio 2020 v5.7.175
 	 Created on:   	7/17/2020 9:58 AM
-	 Created by:   	ryanbley3
+	 Created by:   	rbley
 	 Organization: 	Public Library of Cincinnati and Hamilton County
 	 Filename:     	Get-PrimaryDevicesFromUsernames
 	===========================================================================
